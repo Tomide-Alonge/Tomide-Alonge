@@ -1,5 +1,5 @@
 "Hello World", I’m Tomide.
-👀 I’m a Cloud/DevOps Engineer
+I’m a Cloud/DevOps Engineer
 
 🌱 I’m currently working on DevOps and Cloud Projects.
 
